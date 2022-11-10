@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea082924.css",
+    "main.js": "/static/js/main.2ad91c90.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/illustration-intro.png": "/static/media/illustration-intro.c20d85255009f195b4a6.png",
+    "static/media/illustration-stay-productive.png": "/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
+    "static/media/icon-collaboration.svg": "/static/media/icon-collaboration.6c80c0a4c84274f029eb51c36f603765.svg",
+    "static/media/icon-access-anywhere.svg": "/static/media/icon-access-anywhere.2856c661b15230024a11eb4b089dd3f1.svg",
+    "static/media/icon-any-file.svg": "/static/media/icon-any-file.fc9b91ba9923102f3aa45c19bc3244e6.svg",
+    "static/media/icon-security.svg": "/static/media/icon-security.b6a932b6269cf10d3339e0a3d22c8b4e.svg",
+    "index.html": "/index.html",
+    "static/media/bg-curvy-desktop.svg": "/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d.svg",
+    "static/media/bg-curvy-mobile.svg": "/static/media/bg-curvy-mobile.3ab5d2c7091bda722a7b.svg",
+    "main.ea082924.css.map": "/static/css/main.ea082924.css.map",
+    "main.2ad91c90.js.map": "/static/js/main.2ad91c90.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea082924.css",
+    "static/js/main.2ad91c90.js"
+  ]
+}
